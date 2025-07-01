@@ -1,5 +1,18 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: #0E7E12;
+
+}
+
+.rotated {
+    transform: rotate(180deg);
+}
+
+.card{
+    width:30vh;
+    height:45vh;
+    font-size: 5em;
+    border-radius:0.25em !important
+    
 }
